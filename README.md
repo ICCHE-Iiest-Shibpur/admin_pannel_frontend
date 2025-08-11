@@ -1,4 +1,4 @@
-# User Panel Frontend
+# Admin Panel Frontend
 
 This is the frontend for the **Admin Panel for Icche** project. It uses **Next.js** and integrates with Cloudinary and MongoDB.
 
